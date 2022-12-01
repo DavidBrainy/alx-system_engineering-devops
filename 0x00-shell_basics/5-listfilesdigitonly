@@ -1,0 +1,10 @@
+total 20
+drwxr-xr-x 2 root root 150 Dec  1 14:58 .
+drwxr-xr-x 4 root root  43 Nov 30 09:28 ..
+-rwxr--r-- 1 root root  51 Nov 30 09:41 0-current_working_directory
+-rwxr--r-- 1 root root  47 Nov 30 10:02 1-listit
+-rwxr--r-- 1 root root   5 Nov 30 10:11 2-bring_me_home
+-rwxr--r-- 1 root root 230 Nov 30 10:45 3-listfiles
+-rwxr--r-- 1 root root 375 Nov 30 10:48 4-listmorefiles
+-rw-r--r-- 1 root root   0 Dec  1 14:58 5-listfilesdigitonly
+
